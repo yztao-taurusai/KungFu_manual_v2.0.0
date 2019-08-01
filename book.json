@@ -1,0 +1,12 @@
+{
+    "title": "kungfu trader 用户手册",
+    "author": "taurus ai",
+    "plugins": [],
+    "pluginsConfig": {
+        "fontSettings": {
+            "theme": "night",
+            "family": "serif",
+            "size": 1
+        }
+    }
+}
