@@ -2,7 +2,7 @@
 
 &emsp;&emsp;Kungfu本质上是为策略程序提供了一个运行环境。在Kungfu中，每一个策略都是运行在一个单独的进程里，通过策略列表的开关进行管理，策略运行时打印的log，交易的实时数据都会呈现在系统中。
 
-<div align=center><img src = "/images/add_str.png" alt="策略模块">
+<div align=center><img src = "/images/add_str.png" width="640" height="376" alt="策略模块">
 
 ###### 添加策略步骤
 
@@ -10,7 +10,7 @@
 - 输入策略的名称 **添加成功后，策略名称不能修改**，选择策略绑定的本地文件
 - 添加成功后，点击运行按钮
 
-<div align=center><img src = "/images/add_str.gif">
+<div align=center><img src = "/images/add_str.gif" width="640" height="376" alt="添加策略">
 
     备注：
     1. 在启动策略之前，需要保证策略使用的行情/交易进程连接处于就绪状态

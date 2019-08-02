@@ -8,7 +8,7 @@
 
 &emsp;&emsp;用户可以对已有账户的信息（除账户名外）进行修改，具体的点击账户的设置按钮后会有该账户的信息表单，修改完成后保存；<font color = orange>如果账户的交易柜台连接处于开启状态，修改成功后，需要手动重启该账户的交易连接后，修改才能生效</font>。
 
-<div align=center><img src="/images/acc_setting.gif">
+<div align=center><img src="/images/acc_setting.gif" width="640" height="376">
 
 ### 账户删除
 
