@@ -1,17 +1,17 @@
 # 账户设置
 
 &emsp;&emsp;KungFu是一款支持跨柜台多账户交易的量化交易系统，系统目前支持的柜台有：<font color="#FAAD14">```XTP```</font>（股票），<font color="red">```CTP```</font>（期货），后续会不断添加对其他柜台的支持。<br/>
-&emsp;&emsp;为了方便用户对账户进行管理，我们在系统内提供了账户模块，在账户模块中，用户可以对账户进行添加、编辑以及删除，也可以查看每一个账户的实时运行状态、持仓情况、委托情况、成交情况以及盈亏情况。
+&emsp;&emsp;为了方便用户对账户进行管理，我们在系统内提供了账户模块，在账户模块中，用户可以对账户进行添加、编辑以及删除，也可以查看每一个账户的实时运行状态、运行日志、持仓情况、委托情况、成交情况以及盈亏情况。
 
 <div align=center><img src="/images/acc_setting.png" width="640" height="376">
 
 #### 添加一个 <font color="#FAAD14">```账户```</font> 
 ---
 
-&emsp;&emsp;在kungfu交易系统中，账户有两个概念：<font color="#FAAD14">```行情进程（md）```</font>和<font color="red">```交易进程（td）```</font>，<font color="#FAAD14">```行情进程```</font>用来接受行情，<font color="red">```交易进程```</font>用来下撤单。当我们添加了一条账户，实际上是用添加账户的信息建立了一条<font color="red">```交易进程```</font>，于此同时，也建立了一条<font color="#FAAD14">```行情进程```</font>。
+&emsp;&emsp;在kungfu交易系统中，一个账户由一个<font color="#FAAD14">```行情进程（md）```</font>以及一个<font color="red">```交易进程（td）```</font>组成，<font color="#FAAD14">```行情进程```</font>用来接受行情，<font color="red">```交易进程```</font>用来下撤单。当我们添加了一个账户，实际上是根据新增账户的信息建立了一个<font color="red">```交易进程```</font>，于此同时，也建立了一个<font color="#FAAD14">```行情进程```</font>。
 
     备注：
-    1. 行情进程在添加交易进程后会自动添加，在一个柜台下只有一条
+    1. 行情进程在添加交易进程后会自动添加，一个柜台下只有一行情进程
     2. 可以通过切换行情源绑定的账号来实现更换行情进程所绑定的信息
     3. ctp柜台只支持windows系统与linux系统，xtp柜台对于mac，windows，linux三个系统都支持
 
@@ -29,7 +29,7 @@
 #### 启动<font color="red">```交易进程```</font>
 ---
 
-&emsp;&emsp;添加完账户后，交易账户列表会出现一条新的<font color="red">```交易进程```</font>，需要使其正常运行，才能正常进行交易，点击交易账户列表内的<font color="#17b07f">```连接```</font>按钮。
+&emsp;&emsp;添加完账户后，交易账户列表会出现一条新的<font color="red">```交易进程```</font>，需要保证其正常运行，才能正常进行交易，点击交易账户列表内的<font color="#17b07f">```连接```</font>按钮。
 
 <div align=center><img src="/images/TD_start.png"  width="640" height="376">
 
