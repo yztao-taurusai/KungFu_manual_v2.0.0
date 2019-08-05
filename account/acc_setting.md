@@ -14,6 +14,10 @@
 
 <div align=center><img src="/images/fee_setting.png" width="640" height="376">
 
+### 账户日志
+&emsp;&emsp;用户可以点击账户后面的运行日志按钮，在新的窗口打开账户的实时运行日志，方便用户实时地监控账户的运行情况
+
+<div align=center><img src="/images/acc_log.png" width="640" height="376">
 
 ### 账户删除
 
