@@ -10,6 +10,11 @@
 
 <div align=center><img src="/images/acc_setting.gif" width="640" height="376">
 
+&emsp;&emsp;为了提高账户盈亏的计算精度，用户可以对账户的交易手续费率进行设置，点击账户右侧的手续费设置按钮，在手续费设置弹窗内修改手续费参数
+
+<div align=center><img src="/images/fee_setting.png" width="640" height="376">
+
+
 ### 账户删除
 
 &emsp;&emsp;在交易账户列表，点击删除按钮可以删除不需要的交易账户，但是，在删除交易账户之前，需要保证：
