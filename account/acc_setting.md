@@ -8,7 +8,7 @@
 
 &emsp;&emsp;用户可以对已有账户的信息（除账户名外）进行修改，具体的点击账户的设置按钮后会有该账户的信息表单，修改完成后保存；<font color = orange>如果账户的交易柜台连接处于开启状态，修改成功后，需要手动重启该账户的交易连接后，修改才能生效</font>。
 
-<div align=center><img src="/images/acc_setting.gif" width="640" height="376">
+<div align=center><img src="/images/acc_setting_1.png" width="640" height="376">
 
 &emsp;&emsp;为了提高账户盈亏的计算精度，用户可以对账户的交易手续费率进行设置，点击账户右侧的手续费设置按钮，在手续费设置弹窗内修改手续费参数
 
