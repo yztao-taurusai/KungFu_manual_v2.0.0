@@ -21,5 +21,5 @@
 - 标的代码
 - 策略
 
-<div align=center>![GIF](/images/acc_deal_search.gif)
+<div align=center><img src="/images/acc_deal.png" width="640" height="280">
 
