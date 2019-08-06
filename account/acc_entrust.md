@@ -4,7 +4,10 @@
 
 &emsp;&emsp;在委托模块中，默认显示的是该账户的未完成委托；点击<font color="red">```当日委托```</font> 按钮后，会显示该账户当日所有的委托记录; 用户可以通过点击<font color="red">```导出```</font>按钮，导出该账户某一时间段内的历史委托记录;
 
-<div align=center>![GIF](/images/acc_entrust.gif)
+<div align=center><img src="/images/acc_entrust.png" width="640" height="250">
+
+<div align=center><img src="/images/acc_entrust_1.png" width="640" height="250">
+
 
 &emsp;&emsp;在委托记录列表中，我们展示了每一笔委托记录的：
 
@@ -22,8 +25,6 @@
 - 代码名称
 - 策略名称
 - OrderID(<font color = red>系统维护的订单编号，在列表中没显示</font>)
-
-<div align=center>![GIF](/images/acc_entrust_search.gif)
 
 &emsp;&emsp;功夫量化交易系统支持用户对未完成委托进行撤单操作，点击<font color="red">```全部撤单```</font>按钮后，系统会对当前该账户的所有未完成订单进行撤单操作；
 
