@@ -4,7 +4,10 @@
 
 &emsp;&emsp;在委托模块中，默认显示的是该策略的未完成委托；点击<font color="red">```当日委托```</font> 按钮后，会显示该策略当日所有的委托记录; 用户可以通过点击<font color="red">```导出```</font>按钮，导出该策略某一时间段内的历史委托记录;
 
-<div align=center>![GIF](/images/str_entrust.gif)
+<div align=center><img src="/images/str_entrust.png" width="640" height="280" alt = "未完成委托">
+
+<div align=center><img src="/images/str_entrust_1.png" width="640" height="280" alt = "当日委托">
+
 
 &emsp;&emsp;在委托记录列表中，我们展示了每一笔委托记录的：
 
