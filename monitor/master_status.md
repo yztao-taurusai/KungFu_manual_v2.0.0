@@ -4,6 +4,6 @@
 
 <div align=center><img src = "/images/master_status.png" width="640" height="250" alt="主进程状态监控">
 
-&emsp;&emsp;如果发现进程报错了，用户可以打开进程的运行日志，通过详细的运行日志，定位进程报错的原因；
+&emsp;&emsp;如果发现进程出现报错，用户可以打开进程的运行日志，通过详细的运行日志，定位进程报错的原因；
 
 <div align=center><img src = "/images/master_status_log.png" width="640" height="376" alt="主进程日志">

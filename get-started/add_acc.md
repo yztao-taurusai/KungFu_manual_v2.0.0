@@ -22,7 +22,7 @@
 - 填写账户信息表单，点击确定
 - 操作成功后，交易账户列表中会新增刚添加账户的交易进程，**如果该账户所属柜台从未被其他账户使用**，在行情源列表中会新增一条行情进程
 
-<div align=center><img src="/images/add_acc.gif" width="640" height="376">
+<div align=center><img src="/images/add_acc.png" width="640" height="376">
 
 [柜台下账户对应字段](/account/acc_setting_key.md/#柜台下账户对应字段)
 
@@ -46,7 +46,7 @@
 
 &emsp;&emsp;行情进程的原理是**绑定柜台下账户，从账户信息的的行情地址中获取行情**，每个柜台只需绑定一个账户，可以通过切换不同的账户来作为行情源，从而接收期望的行情信息。
 
-<div align=center><img src="/images/md_change.gif" width="640" height="376">
+<div align=center><img src="/images/md_change.png" width="640" height="376">
 
 [行情进程连接状态对应表](/account/acc_setting_key.md/#行情进程连接状态对应表)
 

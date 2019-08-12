@@ -1,7 +1,6 @@
 # Summary
 
 * [产品介绍](README.md)
-* [下载安装](./setup/download&install.md)
 * 运行第一个策略
     * [1. 账户设置](./get-started/add_acc.md)
     * [2. 策略设置](./get-started/add_str.md)
