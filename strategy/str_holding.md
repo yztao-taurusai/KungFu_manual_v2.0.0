@@ -14,6 +14,6 @@
 
 &emsp;&emsp;用户可以通过搜索标的代码来定位自己需要查看的的标的持仓
 
-<div align=center><img src="/images/str_holding.png" width="640" height="300" alt = "策略持仓">
+<div align=center><img src="/images/str_holding.png" width="640" height="376" alt = "策略持仓">
 
-<div align=center><img src="/images/str_order.png" width="640" height="300" alt = "策略下单">
+<div align=center><img src="/images/str_order.png" width="640" height="376" alt = "策略下单">

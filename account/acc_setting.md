@@ -2,22 +2,22 @@
 
 &emsp;&emsp;在日常使用过程中，用户可以根据实际需要，在账户模块对系统内的账户进行维护，用户可以修改已有的账户信息，或者删除不需要的账户。
 
-<div align=center><img src="/images/acc_setting.png" width="640" height="376">
+<div align=center><img src="/images/acc_setting.png" width="640" height="376" alt = "账户维护" > 
 
 ### 账户修改
 
 &emsp;&emsp;用户可以对已有账户的信息（除账户名外）进行修改，具体的点击账户的设置按钮后会有该账户的信息表单，修改完成后保存；<font color = orange>如果账户的交易柜台连接处于开启状态，修改成功后，需要手动重启该账户的交易连接后，修改才能生效</font>。
 
-<div align=center><img src="/images/acc_setting_1.png" width="640" height="376">
+<div align=center><img src="/images/acc_setting_1.png" width="640" height="376" alt = "账户设置" >
 
 &emsp;&emsp;为了提高账户盈亏的计算精度，用户可以对账户的交易手续费率进行设置，点击账户右侧的手续费设置按钮，在手续费设置弹窗内修改手续费参数
 
-<div align=center><img src="/images/fee_setting.png" width="640" height="376">
+<div align=center><img src="/images/fee_setting.png" width="640" height="376" alt = "账户费率设置" >
 
 ### 账户日志
 &emsp;&emsp;用户可以点击账户后面的运行日志按钮，在新的窗口打开账户的实时运行日志，方便用户实时地监控账户的运行情况
 
-<div align=center><img src="/images/acc_log.png" width="640" height="376">
+<div align=center><img src="/images/acc_log.png" width="640" height="376" alt = "账户日志" >
 
 ### 账户删除
 

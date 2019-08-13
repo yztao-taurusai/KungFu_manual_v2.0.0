@@ -22,7 +22,7 @@
 - 填写账户信息表单，点击确定
 - 操作成功后，交易账户列表中会新增刚添加账户的交易进程，**如果该账户所属柜台从未被其他账户使用**，在行情源列表中会新增一条行情进程
 
-<div align=center><img src="/images/add_acc.png" width="640" height="376">
+<div align=center><img src="/images/add_acc.png" width="640" height="376" alt = "添加账户" >
 
 [柜台下账户对应字段](/account/acc_setting_key.md/#柜台下账户对应字段)
 
@@ -31,7 +31,7 @@
 
 &emsp;&emsp;添加完账户后，交易账户列表会出现一条新的<font color="red">```交易进程```</font>，需要保证其正常运行，才能正常进行交易，点击交易账户列表内的<font color="#17b07f">```连接```</font>按钮。
 
-<div align=center><img src="/images/TD_start.png"  width="640" height="376">
+<div align=center><img src="/images/TD_start.png"  width="640" height="376"  alt = "启动交易连接" > 
 
 &emsp;&emsp;启动交易进程后，交易进程会与交易柜台进行连接，从交易柜台中获取该账户最新的资金与持仓信息，并同步到KungFu系统的数据库中。
 
@@ -42,11 +42,11 @@
 
 &emsp;&emsp;交易进程被添加后，如果该交易进程的柜台**没有被系统内其他账户使用**，行情源列表中会自动出现一条<font color="#FAAD14">```行情进程```</font>。行情进程的运行用来保证策略能够接收到行情，也需要先启动后才能运行交易，点击行情源列表内的<font color="#17b07f">```连接```</font>按钮，如果行情进程出现异常，可以点击<font color = "red">```行情日志```</font>按钮，查看对应的运行日志。
 
-<div align=center><img src="/images/MD_start.png" width="640" height="376">
+<div align=center><img src="/images/MD_start.png" width="640" height="376" alt = "启动行情连接" >
 
 &emsp;&emsp;行情进程的原理是**绑定柜台下账户，从账户信息的的行情地址中获取行情**，每个柜台只需绑定一个账户，可以通过切换不同的账户来作为行情源，从而接收期望的行情信息。
 
-<div align=center><img src="/images/md_change.png" width="640" height="376">
+<div align=center><img src="/images/md_change.png" width="640" height="376" alt = "切换行情账户" >
 
 [行情进程连接状态对应表](/account/acc_setting_key.md/#行情进程连接状态对应表)
 

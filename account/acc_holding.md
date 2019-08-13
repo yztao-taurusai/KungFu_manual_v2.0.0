@@ -10,12 +10,12 @@
 
 &emsp;&emsp;用户可以通过搜索标的代码来定位自己需要查看的标的持仓，可以通过点击<font color="red">```导出按钮```</font>，导出账户的持仓明细；
 
-<div align=center><img src="/images/acc_holding.png" width="640" height="376">
+<div align=center><img src="/images/acc_holding.png" width="640" height="376" alt = "账户持仓">
 
 
 &emsp;&emsp;功夫交易系统支持用户进行手动下单，点击持仓模块的<font color="red">```下单```</font>按钮，可以用在交易账户列表中选中的账户对自选的标的进行手动下单，下单类型支持市价单和限价单；
 
-<div align=center><img src="/images/acc_holding_order.png" width="640" height="376">
+<div align=center><img src="/images/acc_holding_order.png" width="640" height="376" alt = "手动下单">
 
     说明：账户的持仓信息会在启动账户的交易进程的时候，与该账户在交易柜台的持仓信息进行同步，同步完成以后，
     系统内会维护该账户的持仓信息，如果该账户在系统外进行了交易，则账户在系统内的持仓与账户在交易柜台的真

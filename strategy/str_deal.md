@@ -4,7 +4,7 @@
 
 &emsp;&emsp;在当日成交记录中，我们展示了每一笔成交记录的：
 
-<div align=center><img src="/images/str_deal.png" width="640" height="280" alt = "当日成交">
+<div align=center><img src="/images/str_deal.png" width="640" height="376" alt = "当日成交">
 
 &emsp;&emsp;在成交记录列表中，我们展示了每一笔成交记录的：
 

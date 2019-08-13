@@ -7,5 +7,5 @@
 - 日线会显示该策略添加到系统后的整体盈亏走势、累计收益率以及累计收益
 - 分钟线显示该策略当天的整体盈亏走势、当日收益率以及当日收益
 
-<div align=center><img src="/images/acc_PNL.gif">
+<div align=center><img src="/images/str_PNL.png" width="640" height="376" alt = "策略盈亏" >
 

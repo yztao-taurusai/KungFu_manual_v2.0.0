@@ -8,5 +8,5 @@
 
 &emsp;&emsp;用户还可以在状态浮窗中启停账户的交易连接以及柜台的行情连接
 
-<div align=center><img src = "/images/acc_status.png" width="640" height="280" alt="账户状态监控">
+<div align=center><img src = "/images/acc_status.png" width="640" height="376" alt="账户状态监控">
 

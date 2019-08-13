@@ -4,9 +4,9 @@
 
 &emsp;&emsp;在委托模块中，默认显示的是该账户的未完成委托；点击<font color="red">```当日委托```</font> 按钮后，会显示该账户当日所有的委托记录; 用户可以通过点击<font color="red">```导出```</font>按钮，导出该账户某一时间段内的历史委托记录;
 
-<div align=center><img src="/images/acc_entrust.png" width="640" height="250" alt="">
+<div align=center><img src="/images/acc_entrust.png" width="640" height="376" alt="未完成委托" >
 
-<div align=center><img src="/images/acc_entrust_1.png" width="640" height="250">
+<div align=center><img src="/images/acc_entrust_1.png" width="640" height="376" alt = "当日委托">
 
 
 &emsp;&emsp;在委托记录列表中，我们展示了每一笔委托记录的：
